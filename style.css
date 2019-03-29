@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+
+
+html,
+body {
+    background-color: #222;
+    height: 100%;
+    width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+    color: #222;
+}
+
+
+
+.nav-item {
+    padding-left: 20px;
+    padding-right: 20px;
+}
